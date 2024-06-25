@@ -41,3 +41,9 @@ Form validation
 1.**Error Handling**: Each validation function updates an associated error message element in the DOM, guiding the user to correct their input.
 2.**Success Indicators**: A checkmark icon (<i class="fa-solid fa-check"></i>) is displayed when a field passes validation.
 3.**User Feedback**: The validateForm function provides immediate feedback if the form cannot be submitted, enhancing user experience by guiding them to resolve errors promptly.
+
+Previews:
+
+![Screenshot 2024-06-25 183048](https://github.com/satvikcu21/Form-validation/assets/150938638/51b1e1cf-8ad5-4952-95fb-b59d32880d2b)
+
+![Screenshot 2024-06-25 185300](https://github.com/satvikcu21/Form-validation/assets/150938638/3284d535-49c6-4778-b677-0b90cc24aac3)
